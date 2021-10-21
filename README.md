@@ -1,17 +1,33 @@
 ![image](https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project/blob/main/readme%20files/logo/To-Do-2.png)
+
 ## Summary
 I tried to make a To-Do application for my education graduation project.
-##  Technologies
+
+Table of contents
+=================
+
+<!--ts-->
+   * [Technologies](#technologies)
+   * [Features](#features)
+   * [Screenshots](#screenshots)
+   * [For Developers](#for-developers)
+<!--te-->
+
+Technologies
+============
 1. Core Data
 2. Viper
 3. MVVM
 
-## Features
+Features
+========
 + Cell animation
 + Delete To-Do
 + Filter by color
 + Unit & UI Tests
 
+Screenshots
+===========
 | Main Screen | Add & Update |
 | ----------- | ------------ |
 | ![image](https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project/blob/main/readme%20files/Main-Screen.png) | ![image](https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project/blob/main/readme%20files/Edit-Add-screen.png) |
@@ -24,3 +40,10 @@ I tried to make a To-Do application for my education graduation project.
 | ------------ | ------------ | --------------------- |
 | ![image](https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project/blob/main/readme%20files/create-todo.gif) | ![image](https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project/blob/main/readme%20files/update-todo.gif) | ![image](https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project/blob/main/readme%20files/dismiss.gif) |
 
+For Developers
+==============
+```bash 
+git clone https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project
+cd enesnk_graduation-project
+open todo.xcodeproj
+```
