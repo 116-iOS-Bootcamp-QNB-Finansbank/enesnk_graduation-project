@@ -10,7 +10,9 @@ Table of contents
    * [Technologies](#technologies)
    * [Features](#features)
    * [Screenshots](#screenshots)
-   * [For Developers](#for-developers)
+   * [Installation](#installation)
+      * [For Users](#for-users)
+      *  [For Developers](#for-developers)
 <!--te-->
 
 Technologies
@@ -40,10 +42,16 @@ Screenshots
 | ------------ | ------------ | --------------------- |
 | ![image](https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project/blob/main/readme%20files/create-todo.gif) | ![image](https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project/blob/main/readme%20files/update-todo.gif) | ![image](https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project/blob/main/readme%20files/dismiss.gif) |
 
-For Developers
-==============
+Installation
+============
+
+## For Users
+
+From [App Store](https://apps.apple.com/us/app/open-to-do/id1591032054)
+
+## For Developers
 ```bash 
-git clone https://github.com/116-iOS-Bootcamp-QNB-Finansbank/enesnk_graduation-project
+git clone https://github.com/enesnurullahkendirci/Open-To-Do
 cd enesnk_graduation-project
 open todo.xcodeproj
 ```
